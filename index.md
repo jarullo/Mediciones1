@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MEDICIÓN PARTICULAS EN SUSPENSIÓN - NEIVA - MICROCENTRO
 
 You can use the [editor on GitHub](https://github.com/jarullo/Mediciones1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,14 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# DIRECCIÓN 1
+## DIRECCIÓN  2
+### DIRECCIÓN  3
 
 - Bulleted
 - List
